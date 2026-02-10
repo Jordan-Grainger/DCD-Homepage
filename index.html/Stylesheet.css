@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(62, 61, 61);
+}
+
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: bisque;
+
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: bisque;
+    
+}
+p{
+    color: bisque;
+}
